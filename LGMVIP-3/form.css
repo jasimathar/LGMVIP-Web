@@ -1,0 +1,72 @@
+body{
+    background-color: white;padding: 50px;
+}
+h1{
+    text-align: center;
+    box-sizing:border-box;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+}
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 100px 50px;
+    font-size: 17px;
+    padding:10px;
+    padding-left: 350px;
+    padding-right: 350px;
+}
+.container{
+    background-color: rgb(74, 132, 209);
+    padding: 30px 40px 30px 40px;
+    border-radius: 25px;
+    color: white;
+   
+}
+input[type="text"],
+input[type="email"],
+input[type="number"],
+textarea{
+    width: 100%;
+    padding: 12px;
+    background-image: url("19604.jpg");
+    color:black;
+}
+#entry{
+    width: 30%;
+    height: 15%;
+}
+
+table{
+    border-collapse: collapse;
+    width: 100%;
+    margin:50px auto;
+    background-color: rgb(74, 132, 209);
+    
+}
+table, th, td{
+    border: 2px solid black;
+    padding:5px;
+
+}
+th{
+    font-size: 20px;
+    font-weight: 700;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+
+}
+
+td{
+    font-size: 15px;
+    font-weight: 500;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: oldlace;
+}
+button{
+    width: 20%;
+    height:7%;
+    font-size: 20px;
+    font-weight: 500;
+    margin-top: 20px;
+    border-radius: 10px;
+}
